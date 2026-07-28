@@ -23,14 +23,14 @@
 ## Fotógrafo e Editor de Imagem/Vídeo:
 
  - Produção e edição de imagens e vídeos para publicidade, redes sociais, cinema ou televisão 
-**www.masterd.pt
+**www.masterd.pt**
 
 
 
 ## Editor de Áudio: 
 
 - Edição e mixagem de faixas sonoras para vídeos, podcasts ou produções musicais 
-**www.masterd.pt
+**www.masterd.pt**
 
 
 ## Operador de Câmara: 
