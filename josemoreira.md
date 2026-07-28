@@ -55,8 +55,46 @@ Dica de especialista: O modelo de mapa mental do [FigJam] (https://www.figma.com
 O próximo passo no processo de design de logotipos é combinar a identidade da sua marca com o estilo de logo certo. Cada tipo serve a objetivos diferentes e cria impressões distintas.
 
 -  **Wordmark:** Logótipo composto apenas pelo nome da marca, destacando a tipografia. Ideal para empresas com nomes curtos e distintivos, como Coca-Cola. 
+
+![Coca-Cola](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Coca_Cola_Flasche_-_Original_Taste.jpg/960px-Coca_Cola_Flasche_-_Original_Taste.jpg)
+
 - **Letterform:** Logótipo formado por uma única letra, indicado para marcas reconhecidas que procuram uma identidade visual forte, como Facebook e Pinterest.
+
+![Facebook](https://cdn2.downdetector.com/static/uploads/logo/FB-f-Logo__blue_512.png)
+
+![Pinterest](https://static.vecteezy.com/system/resources/thumbnails/018/930/744/small/pinterest-logo-pinterest-transparent-free-png.png)
+
 - **Monograma:** Utiliza as iniciais da marca num design simples e eficaz, sendo comum em empresas estabelecidas, como CNN, H&M e IBM.
-- Abstrato: Recorre a formas e símbolos abstratos para criar uma identidade moderna e única, como Pepsi e Audi.
-- Combination: Combina texto e símbolo num único logótipo, unindo o impacto de ambos. Exemplos: Doritos, Airbnb e Dropbox.
-- Emblema: O logótipo é integrado numa forma definida, transmitindo um estilo mais clássico e tradicional, como Starbucks e BMW.
+
+![CNN Portugal](https://cnnportugal.iol.pt/img/logo.svg)
+
+![H&M](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/H%26M-Logo.svg/1280px-H%26M-Logo.svg.png)
+
+![IBM](https://www.unesco.org/sites/default/files/styles/paragraph_medium_desktop/public/2024-04/ibm-logo.jpg.webp?itok=ZS7w-J-h)
+
+- **Abstrato:** Recorre a formas e símbolos abstratos para criar uma identidade moderna e única, como Pepsi e Audi.
+
+![Pepsi](https://www.pepsi.pt/prod/s3fs-public/PT-Logo-New2_0.png)
+
+![Audi](https://di-uploads-pod3.dealerinspire.com/vindeversautohausofsylvania/uploads/2018/10/Audi-Logo-Banner.png)
+
+- **Combination:** Combina texto e símbolo num único logótipo, unindo o impacto de ambos. Exemplos: Doritos, Airbnb e Dropbox.
+  
+![Doritos](https://i.pinimg.com/736x/3d/36/65/3d366599195b097645ce62dd62329ce7.jpg)
+
+![Airbnb](https://logo-teka.com/wp-content/uploads/2025/08/airbnb-icon-logo.png)
+
+![DropBox](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8LPHRPyr_0CMQXHqf3EYOFjk-Kc12GZGTRCgxO-_jIJeBc-lLD5eKh9f&s=10)
+
+- **Emblema:** O logótipo é integrado numa forma definida, transmitindo um estilo mais clássico e tradicional, como Starbucks e BMW.
+
+![Starbucks](https://www.freelogovectors.net/wp-content/uploads/2023/04/starbucks-logo-freelogovectors.net_.png)
+
+![BMW](https://www.starkinsider.com/wp-content/uploads/2020/03/1997-BMW-logo.png)
+
+# Passo 3: Escolha da Palete de Cores e Fontes #
+
+Combinações de cores e tipografia fazem mais do que adicionar estilo. Elas moldam como as pessoas sentem sobre sua marca. Certifique-se de escolher elementos que reflitam a personalidade da sua marca e evoquem as emoções que você pretende.
+
+
+
