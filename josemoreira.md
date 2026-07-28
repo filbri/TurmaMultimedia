@@ -96,5 +96,23 @@ O próximo passo no processo de design de logotipos é combinar a identidade da 
 
 Combinações de cores e tipografia fazem mais do que adicionar estilo. Elas moldam como as pessoas sentem sobre sua marca. Certifique-se de escolher elementos que reflitam a personalidade da sua marca e evoquem as emoções que você pretende.
 
+### Teoria das cores e a Psicologia das cores ###
+
+Dois princípios devem guiar suas escolhas de cores: teoria das cores e psicologia das cores.
+
+A teoria das cores refere-se a como as cores trabalham juntas para criar designs visualmente agradáveis. Ela considera propriedades físicas como contraste para garantir legibilidade e chamar a atenção ou esquemas de cores como complementares e análogos para criar um design de logo harmonioso.
+
+A psicologia das cores refere-se a como as cores fazem as pessoas se sentirem. Por exemplo, a UPS usa a cor marrom como tom principal de sua marca no logotipo, evocando uma sensação de confiabilidade e segurança — exatamente o que os clientes desejam de uma empresa de transporte.
+
+### Criatividade com a tipografia ###
+
+A escolha da fonte é o mais importante ao desenhar um logotipo de wordmark, monograma ou forma de letra. A fonte deve ser legível e refletir a personalidade da sua marca. Considere os seguintes tipos de fontes para determinar com qual família de fontes você mais se alinha:
+
+- Fontes de exibição são comuns para logotipos por causa de sua aparência decorativa e única.
+
+- Fontes serifadas apresentam uma cauda decorativa no final de cada traço, oferecendo um visual atemporal e profissional.
+
+- 
+
 
 
