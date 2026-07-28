@@ -1,6 +1,7 @@
 
 # 📝 O que é um Algoritmo
 
+![algorithm-img](https://assets.bytebytego.com/diagrams/0018-9-algorithms-that-dominate-our-world.png)
 ![Status](https://img.shields.io/badge/Status-Feito-brightgreen?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-Estruturado-000000?logo=markdown&logoColor=white&style=for-the-badge)
 
