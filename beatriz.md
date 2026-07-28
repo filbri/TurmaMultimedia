@@ -3,7 +3,7 @@
 ### Introdução 
 Este projeto tem como objetivo explorar, comparar e compreender as duas principais técnicas de animação digital e tradicional: o 2D (Bidimensional) e o 3D (Tridimensional). Vamos analisar as diferenças estéticas, os processos de produção, as ferramentas utilizadas e o impacto de cada uma na indústria do entretenimento.
 
-![alt text](image-2.png)
+![alt text](https://clickandplay.pt/wp-content/uploads/2024/08/animacao-2d-digital.jpg)
 
 ### O que é a Animação 2D?
 
@@ -15,7 +15,8 @@ Exemplos Clássicos: Branca de Neve e os Sete Anões (Disney), A Viagem de Chihi
 
 Estilos Comuns: Animação tradicional em papel, animação vetorial (ex: Toon Boom, Adobe Animate) e motion graphics.
 
-![alt text](image.png)
+![Disney sketches](https://www.industriaanimacion.com/wp-content/uploads/2021/01/Cover-488x280.jpg) 
+
 
 ### O que é a Animação 3D?
 A animação 3D passa-se num espaço virtual tridimensional (eixos X, Y e Z), onde os objetos e personagens possuem largura, altura e profundidade.
@@ -26,7 +27,7 @@ Exemplos Clássicos: Toy Story (Pixar/Disney), Shrek (DreamWorks).
 
 Software Principal: Blender, Maya, Cinema 4D, 3ds Max.
 
-![alt text](image-1.png)
+![Disney sketches](https://images.wondershare.com/filmora/article-images/maya.JPG)
 
 
 ### Vantagens e desvantagens
@@ -68,7 +69,7 @@ Pode ficar “frio” ou genérico se não houver direção artística forte.
 **Jogos:** Predominantemente 3D; 2D em indie e pixel art.
 Arquitetura e produto: Quase sempre 3D.
 
-![alt text](image-3.png)
+![alt text](https://www.deltaanimations.com/blog/wp-content/uploads/2024/12/Understanding-2D-vs.-3D-Animation.jpg)
 
 
 ### Conclusão:
