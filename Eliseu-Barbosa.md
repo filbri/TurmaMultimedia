@@ -1,12 +1,11 @@
-<<<<<<< HEAD
-# Streaming: Como Funciona
+# Streaming: Como Funciona:
 
 O streaming é a tecnologia que permite **transmitir e reproduzir conteúdo multimédia (vídeo ou áudio) em tempo real**, sem que seja necessário descarregar o ficheiro completo antes de o começar a ver ou ouvir. Em vez de esperar por um único ficheiro gigante, o conteúdo chega ao dispositivo em pequenos pedaços que vão sendo reproduzidos assim que são recebidos.
 
 ![image](https://files.tecnoblog.net/wp-content/uploads/2025/06/tbr-streamings-1536x864.png)
 ---
 
-## 1. O Conceito Base
+## 1. O Conceito Base:
 
 Em vez de transferir um ficheiro inteiro, o streaming <cite index="8-1,9-1">divide o conteúdo em pequenos segmentos ou "chunks", cada um deles podendo ser reproduzido de forma independente graças a uma frame-chave (keyframe) no início de cada segmento, que pode ser descodificada sem depender dos segmentos anteriores ou seguintes</cite>.
 
@@ -17,7 +16,7 @@ Este é o motivo pelo qual conseguimos:
 
 ---
 
-## 2. Codec vs. Protocolo — Não é a Mesma Coisa
+## 2. Codec vs. Protocolo — Não é a Mesma Coisa:
 
 É comum confundir-se estes dois conceitos, mas são etapas distintas do processo:
 
@@ -32,7 +31,7 @@ Uma boa analogia:
 
 ---
 
-## 3. As Duas "Pernas" do Processo de Streaming
+## 3. As Duas "Pernas" do Processo de Streaming:
 
 Todo o fluxo de trabalho de transmissão em direto tem, geralmente, duas fases distintas:
 
@@ -43,7 +42,7 @@ Alguns protocolos, como o **SRT**, conseguem <cite index="1-1">funcionar tanto n
 
 ---
 
-## 4. TCP vs. UDP: A Base do Transporte
+## 4. TCP vs. UDP: A Base do Transporte:
 
 <cite index="4-1">Por trás de cada protocolo de streaming existe um método de transporte — a forma como os pacotes de vídeo viajam pela internet. As duas opções principais são o TCP e o UDP</cite>.
 
@@ -52,7 +51,7 @@ Alguns protocolos, como o **SRT**, conseguem <cite index="1-1">funcionar tanto n
 
 ---
 
-## 5. Principais Protocolos de Streaming
+## 5. Principais Protocolos de Streaming:
 
 | Protocolo | Uso típico | Características |
 |---|---|---|
@@ -67,13 +66,13 @@ Vale notar que, apesar de rápidos, <cite index="7-1">o RTMP e o RTSP não são 
 
 ---
 
-## 6. O Papel do Bitrate Adaptativo (ABR)
+## 6. O Papel do Bitrate Adaptativo (ABR):
 
 Os protocolos modernos baseados em HTTP (HLS, DASH) permitem o **streaming de bitrate adaptativo**: o mesmo vídeo é codificado em várias qualidades (por exemplo, 360p, 720p, 1080p, 4K), e o dispositivo do espectador vai escolhendo automaticamente a versão mais adequada à sua ligação em cada momento — é por isso que a imagem por vezes "baixa de qualidade" momentaneamente em vez de parar de vez (buffering).
 
 ---
 
-## 7. O Percurso Completo de uma Stream
+## 7. O Percurso Completo de uma Stream:
 
 De forma resumida, uma transmissão passa pelas seguintes etapas:
 
@@ -89,13 +88,13 @@ De forma resumida, uma transmissão passa pelas seguintes etapas:
 
 ---
 
-## 8. Breve Nota Histórica
+## 8. Breve Nota Histórica:
 
 <cite index="3-1">Nos anos 90 surgiram alguns dos protocolos mais populares, como o Flash, o RTMP e o RTSP, e entre 2001 e 2010 o Adobe Flash manteve-se muito popular na maioria dos browsers</cite>. Com o tempo, esses protocolos proprietários foram sendo substituídos por soluções abertas e baseadas em HTTP (HLS, DASH), mais compatíveis com firewalls, proxies e dispositivos modernos.
 
 ---
 
-## Fontes
+## Fontes:
 
 - [Video Streaming Protocols Explained — Castr](https://castr.com/blog/video-streaming-protocols-everything-you-need-to-know/)
 - [Video Streaming Guide — Wowza](https://www.wowza.com/blog/video-streaming)
@@ -104,6 +103,3 @@ De forma resumida, uma transmissão passa pelas seguintes etapas:
 - [Video Streaming Protocols: A Comprehensive Guide — Teyuto](https://teyuto.com/blog/what-are-streaming-protocols-how-do-they-work)
 - [Streaming Protocols for Live Broadcasting — Dacast](https://www.dacast.com/blog/streaming-protocols/)
 - [Streaming Protocols: Everything You Need to Know (Update) — Wowza](https://www.wowza.com/blog/streaming-protocols)
-=======
-# Streaming - Como Funciona
->>>>>>> 6b5f4f4b333311b3f39a0863063587d6a5dc6d74
