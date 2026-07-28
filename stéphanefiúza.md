@@ -10,7 +10,7 @@
 ## Designer Gráfico e Branding Designer: 
 
 - Criação de logotipos, identidade visual, embalagens e materiais promocionais 
-**www.masterd.pt
+**www.masterd.pt**
 
 
 ## Designer Multimédia e Animador 2D/3D: 
